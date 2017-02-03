@@ -1,0 +1,18 @@
+{
+  "name": "dbiot",
+  "version": "1.0.0",
+  "description": "Digital Broker IoT work",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "^4.7.8",
+    "wait.for": "^0.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veena Sathya",
+  "license": "ISC"
+}
